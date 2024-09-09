@@ -4,6 +4,7 @@
 
 I'm a student that loves to create stuff and play video games. My interests mainly focus on the Front-End
 stuff of things (for now).
+<hr>
 
 # 📖What I know and what I'm learning<span style="color: red">*</span>
 
@@ -13,11 +14,10 @@ stuff of things (for now).
 <img align="left" alt="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
 <img align="left" alt="React" width="50px" style="background-color: red; border-radius: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
 <img align="left" alt="MySQL" width="50px" style="background-color: red; border-radius: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+<br>
 
-<br>
-<br>
-<br>
 #
+
 # 💡Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethertale&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
