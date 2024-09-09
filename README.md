@@ -15,7 +15,8 @@ stuff of things (for now).
 <img align="left" alt="MySQL" width="50px" style="background-color: red; border-radius: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
 
 <br>
-
+<br>
+<br>
 
 # 💡Stats
 
