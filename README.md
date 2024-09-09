@@ -19,5 +19,4 @@ stuff of things (for now).
 #
 
 # 💡Stats
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethertale&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
