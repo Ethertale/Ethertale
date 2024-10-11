@@ -12,7 +12,7 @@ stuff of things but I'm also learning Back-End.
 <img src="https://placehold.co/40x40/fff700/fff700"> Intermediate -><img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="50px"><img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="50px">\
 <img src="https://placehold.co/40x40/ffaa00/ffaa00"> Advanced -><img src="https://img.icons8.com/?size=100&id=15208&format=png&color=000000" width="50px">\
 <img src="https://placehold.co/40x40/ff4200/ff4200"> Expert -><img src="https://img.icons8.com/?size=100&id=15208&format=png&color=000000" width="50px">\
-<img src="https://placehold.co/40x40/00cdff/00cdff"> To Learn -> <img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" width="50px"><img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" width="50px"><img src="https://img.icons8.com/?size=100&id=g9mmSxx3SwAI&format=png&color=000000" width="50px"><img src="https://img.icons8.com/?size=100&id=vEiU8UeAmv0x&format=png&color=000000" width="50px">\
+<img src="https://placehold.co/40x40/00cdff/00cdff"> To Learn -> <img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" width="50px"><img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" width="50px"><img src="https://img.icons8.com/?size=100&id=g9mmSxx3SwAI&format=png&color=000000" width="50px"><img src="https://img.icons8.com/?size=100&id=vEiU8UeAmv0x&format=png&color=000000" width="50px">
 
 
 
