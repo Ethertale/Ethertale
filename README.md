@@ -6,13 +6,19 @@ I'm a student that loves to create stuff and play video games. My interests main
 stuff of things but I'm also learning Back-End.
 <hr>
 
-# 📖What I know and what I'm learning
-<img src="https://placehold.co/40x40/00ff00/00ff00"> Beginner -> <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" width="50px">\
-<img src="https://placehold.co/40x40/cdff00/cdff00"> Advanced Beginner -> <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="50px"><img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" width="50px"><img src="https://img.icons8.com/?size=100&id=g9mmSxx3SwAI&format=png&color=000000" width="50px">\
-<img src="https://placehold.co/40x40/fff700/fff700"> Intermediate -><img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="50px" ><img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="50px"><img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="50px">\
-<img src="https://placehold.co/40x40/ffaa00/ffaa00"> Advanced -><img src="https://placehold.co/50x50/black/white?font=montserrat&text=null" width="50px">\
-<img src="https://placehold.co/40x40/ff4200/ff4200"> Expert -><img src="https://placehold.co/50x50/black/white?font=montserrat&text=null" width="50px">\
-<img src="https://placehold.co/40x40/00cdff/00cdff"> To Learn -> <img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" width="50px"><img src="https://img.icons8.com/?size=100&id=vEiU8UeAmv0x&format=png&color=000000" width="50px">
+# 📖*Skills*
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<br>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<br>
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 <hr>
 
 # 💡Stats
