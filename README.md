@@ -2,8 +2,7 @@
 
 **`Knowledge Seeker`**
 
-I'm a student that loves to create stuff and play video games. My interests mainly focus on the Front-End
-stuff of things but I'm also learning Back-End.
+Full-stack student specializing in Java Spring Boot (VueJS in the workings).
 <hr>
 
 # 📖*Skills*
