@@ -1,8 +1,6 @@
 # 🌴<span style="color: #9eeba5">Ethertale</span>
 
-**`Knowledge Seeker`**
-
-Full-stack student specializing in Java Spring Boot (VueJS in the workings).
+An enthusiastic back- and front-end junior developer with big ambitions and huge drive to create.
 <hr>
 
 # 📖*Skills*
