@@ -40,11 +40,6 @@
 
 ---
 
-## 💡 Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethertale&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ## 📫 Contact
 [![GitHub followers](https://img.shields.io/github/followers/ethertale?style=for-the-badge&label=Follow&logo=github&logoColor=white)](https://github.com/ethertale)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/galin-yanakov/)
