@@ -1,6 +1,6 @@
 # 🌴 Ethertale
 
-**Junior Full-Stack Developer** — enthusiastic about building clean, reliable apps. Big ambitions, a curious mind, and a knack for learning quickly.
+**Full-Stack Developer** — enthusiastic about building clean, reliable apps. Big ambitions, a curious mind, and a knack for learning quickly.
 
 ---
 
