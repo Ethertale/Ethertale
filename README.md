@@ -95,10 +95,6 @@ A full-stack web application where D&D players and tabletop enthusiasts gather t
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ethertale&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=d9b261&icon_color=d9b261&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ethertale&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=d9b261&text_color=c9d1d9)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ethertale&theme=tokyonight&hide_border=true&background=0d1117&ring=d9b261&fire=d9b261&currStreakLabel=d9b261)
 
 </div>
