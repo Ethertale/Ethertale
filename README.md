@@ -20,7 +20,7 @@ I'm a passionate Java Developer that loves to **build applications from the grou
 
 When I'm not coding, you'll find me diving into gaming, lifting weights, drawing or working on yet another side project.
 
-**Current Quest:** Building [**Find A Dice**](https://github.com/Ethertale/findadicethymeleaf) 🎲 — a fantasy-themed social platform for tabletop RPG players.
+**Current Quest:** Building [**Find A Dice**](https://github.com/Ethertale/find-a-dice-TL) 🎲 — a fantasy-themed social platform for tabletop RPG players.
 
 ---
 
@@ -28,7 +28,7 @@ When I'm not coding, you'll find me diving into gaming, lifting weights, drawing
 
 <div align="center">
 
-[![Find A Dice](https://img.shields.io/badge/🎲_Find_A_Dice-View_Project-d9b261?style=for-the-badge)](https://github.com/Ethertale/findadicethymeleaf)
+[![Find A Dice](https://img.shields.io/badge/🎲_Find_A_Dice-View_Project-d9b261?style=for-the-badge)](https://github.com/Ethertale/find-a-dice-TL)
 
 </div>
 
